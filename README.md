@@ -2,6 +2,8 @@ composer install
 
 cp .env.example .env
 
+creer votre propre base de données avec utilisateurs dans postgresql
+
 Configurer ensuite les informations PostgreSQL dans .env :
 
 DB_CONNECTION=pgsql
